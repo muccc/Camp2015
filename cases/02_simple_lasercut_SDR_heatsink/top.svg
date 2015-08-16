@@ -39,7 +39,7 @@
      id="namedview3562"
      showgrid="false"
      inkscape:zoom="1.2685914"
-     inkscape:cx="227.31324"
+     inkscape:cx="95.671168"
      inkscape:cy="134.80469"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -335,14 +335,14 @@
        style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
        id="path3162-5" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect26123"
        width="55.17931"
        height="57.54414"
        x="147.40759"
        y="129.52383"
        transform="translate(29.09375,727.07046)"
-       ry="2.4731333" />
+       ry="7.9910603" />
   </g>
   <g
      inkscape:groupmode="layer"
